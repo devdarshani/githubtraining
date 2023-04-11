@@ -1,0 +1,6 @@
+This is chart application
+
+Emoji
+Type Options
+colors
+vibrant
